@@ -1,101 +1,61 @@
-# 👋 Hi, I'm Mohini
+<h1 align="center">Hi 👋, I'm Mohini</h1>
+<h3 align="center">Aspiring Developer 🚀</h3>
 
-🚀 **Aspiring Full-Stack Developer (Java + React)**
-💡 Building real-world applications & improving problem-solving skills
-
----
-
-## 👩‍💻 About Me
-
-🎓 3rd Year Computer Science Student
-💻 Focused on Backend Development (Spring Boot)
-🌱 Currently learning **React & System Design basics**
-🎯 Goal: Become a skilled Full-Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohini457&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+### 👩‍💻 About Me
 
-### 💻 Languages
-
-Java • JavaScript • TypeScript
-
-### 🎨 Frontend
-
-React • HTML • CSS
-
-### 🔧 Backend
-
-Spring Boot • REST APIs
-
-### 🗄 Database
-
-MySQL
-
-### 🛠 Tools
-
-Git • GitHub • Postman
+* 🎓 Student passionate about tech & development
+* 💻 Currently learning Web Development & DSA
+* 🌱 Exploring new technologies every day
+* 🤝 Open to collaboration on projects
+* 💬 Ask me about coding & problem-solving
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-### 🔹 AI-Powered Interview Preparation Platform
+#### 💻 Languages
 
-> Practice interviews with AI-generated questions and improve performance
-> 🔗 https://github.com/mohini457/AI-Powered-Interview-Preparation-Platform
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 
----
+#### ⚙️ Tools & Frameworks
 
-### 🔹 Smart Study Planner
-
-> Organize, manage, and track daily study schedules efficiently
-> 🔗 https://github.com/mohini457/smart-study-planner
-
----
-
-### 🔹 Spring Boot CRUD API
-
-> RESTful backend service for managing data with proper architecture
-> 🔗 https://github.com/mohini457/Mohini_SpringCRUD
+![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
 
 ---
 
-## 🧠 What I'm Currently Doing
+### 📊 GitHub Stats
 
-* 📚 Practicing Data Structures & Algorithms
-* ⚡ Building full-stack projects
-* 🔍 Exploring how scalable systems work
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohini457&show_icons=true&theme=radical" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohini457&theme=radical" />
+</p>
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: (add your link)
-* 📧 Email: (add your email)
-
----
-
-## ✨ Fun Fact
-
-I enjoy turning ideas into real applications and constantly improving my coding skills 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohini457&layout=compact&theme=radical" />
+</p>
 
 ---
 
-⭐ *Consistent progress > perfection*
-## Hi there 👋
+### 📬 Connect With Me
 
-<!--
-**mohini457/mohini457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge)](https://instagram.com/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Keep learning, keep building!*
